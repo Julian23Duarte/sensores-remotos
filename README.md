@@ -1,2 +1,4 @@
 # sensores-remotos
-eejrcico de clase
+eejrcico de clase de sensores remotos
+
+
